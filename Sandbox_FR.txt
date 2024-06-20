@@ -1,0 +1,14 @@
+Sandbox_FR = {
+	Sandbox_RezZeds = "Resurrecting Zeds",
+
+	Sandbox_RezZeds_RezSpeed = "Vitesse de résurrection",
+	Sandbox_RezZeds_RezSpeed_tooltip = "Combien de temps de jeu doit s'écouler avant qu'un Zed ne soit ressuscité, si c'est le cas.",
+	Sandbox_RezZeds_RezSpeeds_option1 = "15 Minutes",
+	Sandbox_RezZeds_RezSpeeds_option2 = "30 Minutes",
+	Sandbox_RezZeds_RezSpeeds_option3 = "1 Heure",
+	Sandbox_RezZeds_RezSpeeds_option4 = "2 Heures",
+	Sandbox_RezZeds_RezSpeeds_option5 = "6 Heures",
+	Sandbox_RezZeds_RezSpeeds_option6 = "1 Jour",
+	Sandbox_RezZeds_RezChance = "Chance de résurrection",
+	Sandbox_RezZeds_RezChance_tooltip = "Pourcentage de chances que les Zeds ressuscitent.",
+}
